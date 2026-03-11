@@ -107,13 +107,13 @@ ab-testing-python/
 ## 📉 Visualisations
 
 ### Conversion Rate Comparison
-*(screenshot placeholder — add after running notebook)*
+
 
 ### Confidence Interval Plot
-*(screenshot placeholder — add after running notebook)*
+
 
 ### p-value Distribution
-*(screenshot placeholder — add after running notebook)*
+
 
 ---
 
@@ -125,19 +125,6 @@ ab-testing-python/
 - **Ignoring practical significance** — a result can be statistically significant
   but too small to matter for the business
 
----
-
-## 💡 How to Run
-```bash
-# Clone the repo
-git clone https://github.com/amreenshaikh2224/ab-testing-python.git
-
-# Install dependencies
-pip install numpy pandas scipy matplotlib seaborn jupyter
-
-# Launch notebook
-jupyter notebook notebooks/ab_test_analysis.ipynb
-```
 
 ---
 
